@@ -1,1 +1,1 @@
-print("Stranger Thinks")
+print("Stranger Things")
